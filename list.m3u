@@ -1,4 +1,18 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.txt"
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3825
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2612
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax Hits (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/81382
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax Hits (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/51553
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax Classics
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/81384
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax Action (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/81383
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax Action (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/51557
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",HBO (West)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2490
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",HBO (East)
@@ -19,3 +33,97 @@ http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/648981
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631876
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",HBO Comedy (East)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/51550
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/635603
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/333485
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ Hits
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3724
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ Drive-In
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/4431
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",MGM+ Marquee
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/4430
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3840
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3758
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime 2 (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631912
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime 2 (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3965
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Extreme (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631884
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Extreme (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3967
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Next (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631889
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Next (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/648985
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime (ShoCase) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631890
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime (ShoCase) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3966
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Women (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631886
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Women (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3971
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Family Zone (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631918
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime Family Zone (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3969
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime (Sho X BET) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631888
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Showtime (Sho X BET) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3968
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3963
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3680
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Cinema (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631879
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Cinema (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3960
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Comedy (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631883
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Comedy (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3959
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz In Black (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631880
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz In Black (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3962
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Edge (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631882
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Edge (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3961
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Kids & Family (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631881
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Kids & Family (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3956
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3951
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3950
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Classic (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130044
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Classic (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3953
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Suspense (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130046
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Suspense (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3958
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Action (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130042
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Action (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3952
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Westerns (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/1270107
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Westerns (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/1270108
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Black (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130043
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Black (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3954
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Family (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130045
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Starz Encore Family (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3957
