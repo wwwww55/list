@@ -420,3 +420,402 @@ https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",BET Comedy Visionaries (Pluto TV)
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="Network Channels",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b9f830b119ada7a125dbcd7776df530bceb1808ef3386cb7f67dee896ff2fe26.png" group-title="Network Channels",Power Nation
+https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/1920px-Rev%27n_logo.jpg" group-title="Network Channels",REV'N
+https://freecast.telos.indicue.com/playlist.m3u8?source=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2E0ZjMxZjI5N2ZjNTQ0MGY4MTRiZDJjZmZkNzdlNjg5L2luZGV4XzIubTN1OA==&w=1280&h=720&master=&client=&session=e41b5984b0557c5dd14721f3159aed65&ott_provider_id=0&bitrate=3193062&variant=1&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&troute=107&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2E0ZjMxZjI5N2ZjNTQ0MGY4MTRiZDJjZmZkNzdlNjg5L2luZGV4Lm0zdTg%3D&uip=76.32.150.23&dnt=0&lmt=0&uid=&lang=en&device_model=&device_make=&device_os=&device_connection=&app_category=uncategorized&ifa_type=&site_url=&site_full_url=https%253A%252F%252Fwatch.freecast.com%252Fchannels%252Ffree%252Fsports%252Fcms-revn%252F&max_duration=&width=683&height=355&cb=730258875&video_duration=&mute=0&skippability=&delivery=streaming&app_name=FreeCast&app_bundle=com.freecast.watch&app_version=1.0&app_store_url=https%25253A%25252F%25252Fwatch.freecast.com%25252F&device_id=7ff2efb1-e574-4399-be8f-4883c7cfc3b6&geo_lat=34.2586&geo_lon=-118.4217&channelid=REV%25E2%2580%2599N&gdpr=0&us_privacy=1YNN&coppa=0&content_id=&content_series=Grassroots+Racing&content_lang=&content_season=&content_rating=&content_genre=sports&content_episode=&content_title=Grassroots+Racing&content_categories=IAB1-7&channel_name=REV%25E2%2580%2599N&network_name=&poddur=&minduration=6&ad_pod_slots=&schain=&c4=101&device_category=desktop&video_id=&ad_position=&session_id=&ad_duration=1800&format=freecast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="Network Channels",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Network Channels",MeTV (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/597246
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Network Channels",MeTV (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/597268
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/MeTV_Plus_Color.png" group-title="Network Channels",MeTV+
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/607734
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/2560px-Ion_logo.svg.png" group-title="Network Channels",ION
+https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1116
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/2560px-Ion_Plus_2024.svg.png" group-title="Network Channels",ION Plus
+https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_ion_plus_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=378
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/2560px-ION_Mystery_logo.svg.png" group-title="Network Channels",ION Mystery
+https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1206
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CW Forever
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CW Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Retro TV
+https://freecast.telos.indicue.com/playlist.m3u8?source=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxLzY2NWU5ZjkxNjE0YjQzYjBhMDY1NGU5MzE3ZjFkOWYzL2luZGV4XzIubTN1OA==&w=1280&h=720&master=&client=&session=8237ca33a9fa81523aebfa727bd053ba&ott_provider_id=0&bitrate=3193234&variant=1&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&troute=106&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxLzY2NWU5ZjkxNjE0YjQzYjBhMDY1NGU5MzE3ZjFkOWYzL2luZGV4Lm0zdTg%3D&uip=76.32.150.23&dnt=0&lmt=0&uid=&lang=en&device_model=&device_make=&device_os=&device_connection=&app_category=uncategorized&ifa_type=&site_url=&site_full_url=https%253A%252F%252Fwatch.freecast.com%252Fchannels%252Ffree%252Ftv%252Fcms-retro-tv%252F&max_duration=&width=683&height=355&cb=125635416&video_duration=&mute=0&skippability=&delivery=streaming&app_name=FreeCast&app_bundle=com.freecast.watch&app_version=1.0&app_store_url=https%25253A%25252F%25252Fwatch.freecast.com%25252F&device_id=7ff2efb1-e574-4399-be8f-4883c7cfc3b6&geo_lat=34.2586&geo_lon=-118.4217&channelid=Retro%2520TV&gdpr=0&us_privacy=1YNN&coppa=0&content_id=&content_series=The+Lucy+Show+-+Lucy+Gets+a+Roommate&content_lang=&content_season=&content_rating=&content_genre=tv&content_episode=&content_title=The+Lucy+Show+-+Lucy+Gets+a+Roommate&content_categories=IAB1-7&channel_name=Retro%2520TV&network_name=&poddur=&minduration=6&ad_pod_slots=&schain=&c4=101&device_category=desktop&video_id=&ad_position=&session_id=&ad_duration=1800&format=freecast
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Rewind TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/626386
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Antenna TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/544767
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Ace TV
+https://freecast.telos.indicue.com/playlist.m3u8?source=aHR0cHM6Ly8yLWZzcy0xLnN0cmVhbWhvc3Rlci5jb20vcGxfMTU0L2FtbHN0OjIwNTQzMi0yMDU1OTgwLzcyMC9hc3BlbjcyMFNDVEUzNS5tM3U4&w=720&h=480&master=&client=&session=e3b58ebda4b87bacc23ec6521e3e2a29&ott_provider_id=0&bitrate=3000000&variant=0&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&aid=6922&m=aHR0cHM6Ly8yLWZzcy0xLnN0cmVhbWhvc3Rlci5jb20vcGxfMTU0L2FtbHN0OjIwNTQzMi0yMDU1OTgwL3BsYXlsaXN0Lm0zdTg%3D&ads.ip=76.32.150.23&ads.ic=uncategorized&ads.content_genre=tv&ads.rating=&ads.did=7ff2efb1-e574-4399-be8f-4883c7cfc3b6&ads.us_privacy=&ads.schain=&ads.pod_max_dur=&ads.content_id=&ads.media_id=&ads.session_id=&ads.content_title=Ace%2520TV&ads.gdpr=0&ads.channel_name=Ace%2520TV&ads.cb=460607861&ads.content_series=Ace%2520TV&ads.h=355&ads.w=683&ads.dur=&ads.lat=34.2586&ads.lon=-118.4217&ads.device_make=&ads.device_model=&ads.coppa=0&ads.language=en&ads.dnt=0&ads.lmt=0&ads.app_name=FreeCast&ads.app_bundle=com.freecast.watch&ads.custom_4=101&ads.content_channel=Ace%2520TV&ads.app_version=1.0&ads.content_network=&ads.custom_7=STV-BASIC&ads.device_type=desktop&ads.ifa_type=aaid&ads.app_store_url=https%25253A%25252F%25252Fwatch.freecast.com%25252F&ads.content_language=&ads.content_episode=&ads.pod_ad_slot=&ads.min_ad_duration=6&ads.max_ad_duration=120&ads.duration=&ads.placement=&ads.skip=&ads.site_page=https%253A%252F%252Fwatch.freecast.com%252Fchannels%252Ffree%252Ftv%252Fcms-ace-tv%252F&ads.site_name=Freecast&ads.content_cat=IAB1-7&ads.inapp_browser=browser&format=freecast
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",COZI TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3851
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",H&I (Heroes & Icons)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/61858
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Start TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/469939
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",DABL
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/333484
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",fetv (Family Entertainment Television)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/512977
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Great. (Entertainment Television)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/30928
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get TV
+https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get Comedy
+https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Grit TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/40583
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Grit Xtra
+https://ab36e457.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfR3JpdFh0cmFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Laff
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/75343
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Laff More!
+https://4783fbd6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTGFmZk1vcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Catchy Comedy
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2603
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Network Channels",Story Television
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647790
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Buzzr
+https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Bounce XL
+https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Nosey
+https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Nosey (Alt)
+https://nosey-intl-1-lg-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Confess by Nosey
+https://amg00514-amg00514c3-lg-us-7151.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-confessbynosey-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TV Land (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/143866
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TV Land (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/614330
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631837
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/648958
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV 2 (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/89987
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV 2 (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/97469
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631838
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/649014
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Classic (Pluto TV)
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Live
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/57970
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Yo! (Pluto)
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MTV Reality (Pluto)
+https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OUTtv Proud
+https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",VH1 (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/81588
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",VH1 (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3699
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/48973
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647385
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Classics (Pluto TV)
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Throwbacks (Pluto TV)
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Her (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631835
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Her (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3946
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Jams
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3947
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Soul
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3948
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET Gospel
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/42491
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET - Tyler Perry Comedy
+https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BET - Tyler Perry Drama
+https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FOX Soul
+https://cdn-uw2-prodv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",theGrio
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/648960
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",theGrio+
+https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TV One
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/21897
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Cleo TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/573316
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Revolt
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/21627
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Afro
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/573315
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Africa Channel
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647825
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Shades of Black
+https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The BLK Effect
+https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-theblkeffect-cwus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Maverick Black Cinema
+https://apollo-eks.production-public.tubi.io/live/maverick-black-cinema-fCrBU2.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Backstage
+https://cdn-uw2-prodv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",E! (Entertainment Television) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3830
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",E! (Entertainment Television) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3635
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AXS-TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/42309
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AXS-TV Now
+https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Crime Thriller
+https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FX (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3832
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FX (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3642
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FXX (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3833
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FXX (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2496
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FXM (FOX Movie Channel)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2497
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2384
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3683
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT+ (West)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tntwest.us.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TNT+ (East)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnteast.us.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3842
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3684
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS+ (West)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbswest.us.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TBS+ (East)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbseast.us.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",USA Network (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2379
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",USA Network (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3694
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",El Rey Rebel
+https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Crime Beat TV
+https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/dist/localnow/940/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n4=content_name&ads.v4=Crime%20Beat%20TV&ads.n21=w&ads.v21=1920&ads.n22=dnt&ads.v22=&ads.n23=url&ads.v23=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n24=did&ads.v24=&ads.n25=app_bundle&ads.v25=&ads.n26=channel_brand_id&ads.v26=AMDB013592&ads.n27=channel_language&ads.v27=en&ads.n28=gpp&ads.v28=&ads.n29=us_privacy&ads.v29=1YNY&ads.n30=app_version&ads.v30=0.0.0&ads.n31=ip&ads.v31=195.179.200.80&ads.n32=device_type&ads.v32=&ads.n33=channel_name&ads.v33=Crime%20Beat%20TV&ads.n34=channel_title&ads.v34=Crime%20Beat%20TV&ads.n35=content_producer_name&ads.v35=Shout%21%20Factory%20LLC&ads.n36=app_store_url&ads.v36=&ads.n37=ua&ads.v37=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n38=content_type&ads.v38=channel&ads.n39=channel_genre&ads.v39=Drama&ads.n40=device_make&ads.v40=&ads.n41=device_model&ads.v41=&ads.n42=network_name&ads.v42=crime-beat-tv&ads.n43=ifa_type&ads.v43=&ads.n44=channel_id&ads.v44=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n45=app_name&ads.v45=&ads.n46=content_custom_2_param&ads.v46=AMDB013592&ads.n47=pos&ads.v47=midroll&ads.n48=channel_ext_id&ads.v48=&ads.n49=cust_devicename&ads.v49=desktop_web&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=h&ads.v51=1080&ads.n52=content_custom_1_param&ads.v52=065BAB30-4D1F-43EC-B505-9A4D77AC3003&ads.n53=content_provider&ads.v53=crime-beat-tv&ads.n54=channel_corp&ads.v54=Shout%21%20Factory%20LLC&ads.n55=content_livestream&ads.v55=1&ads.n56=channel_company_id&ads.v56=AMDP500152&ads.n57=gpp_sid&ads.v57=&ads.n58=content_custom_3_param&ads.v58=channel
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hunter
+https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/914/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n4=content_name&ads.v4=Hunter&ads.n21=channel_brand_id&ads.v21=AMDB013564&ads.n22=channel_id&ads.v22=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n23=w&ads.v23=1920&ads.n24=content_producer_name&ads.v24=Shout%21%20Factory%20LLC&ads.n25=device_type&ads.v25=&ads.n26=cust_devicename&ads.v26=desktop_web&ads.n27=app_version&ads.v27=0.0.0&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Shout%21%20Factory%20LLC&ads.n31=ua&ads.v31=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n32=channel_company_id&ads.v32=AMDP500152&ads.n33=gpp&ads.v33=&ads.n34=ip&ads.v34=195.179.200.80&ads.n35=channel_name&ads.v35=Hunter&ads.n36=dnt&ads.v36=&ads.n37=channel_ext_id&ads.v37=&ads.n38=url&ads.v38=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n39=channel_genre&ads.v39=Action&ads.n40=channel_language&ads.v40=en&ads.n41=did&ads.v41=&ads.n42=content_custom_1_param&ads.v42=A48FFE37-5FF8-486F-B048-D8793F969F26&ads.n43=h&ads.v43=1080&ads.n44=app_store_url&ads.v44=&ads.n45=content_livestream&ads.v45=1&ads.n46=app_name&ads.v46=&ads.n47=content_custom_3_param&ads.v47=channel&ads.n48=content_provider&ads.v48=hunter&ads.n49=content_type&ads.v49=channel&ads.n50=app_bundle&ads.v50=&ads.n51=content_custom_2_param&ads.v51=AMDB013564&ads.n52=device_make&ads.v52=&ads.n53=channel_title&ads.v53=Hunter&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=network_name&ads.v55=hunter&ads.n56=ifa_type&ads.v56=&ads.n57=pos&ads.v57=midroll&ads.n58=gpp_sid&ads.v58=
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount Network (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631839
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Paramount Network (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3677
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",SYFY (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3841
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",SYFY (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3681
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC Sci-Fi
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65622ac05dbccec83a87b641/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Midnight Pulp
+https://cineverse.g-mana.media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FreeTV Fantasy
+https://cdn-uw2-prodv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Farscape
+https://linear-731.frequency.stream/dist/dice/731/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TLC (The Learning Channel) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/48974
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TLC (The Learning Channel) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3686
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Bravo (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3823
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Bravo (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3709
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",IFC (Independent Film Channel) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647340
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",IFC (Independent Film Channel) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2487
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",SundanceTV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3759
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",A&E (Arts & Entertainment) (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/261521
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",A&E (Arts & Entertainment) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3607
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CMT (Country Music Television) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631836
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",CMT (Country Music Television) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647783
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Circle Country
+https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Heartland Channel
+https://freecast.telos.indicue.com/playlist.m3u8?source=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2VmNGM0NWFmMjk5YzQ2YWFhYmMzZjg3MTNmOTJmMTYzL2luZGV4XzIubTN1OA==&w=1280&h=720&master=&client=&session=1ecab5b4367da9b801a709766f309e70&ott_provider_id=0&bitrate=3193172&variant=1&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&troute=105&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2VmNGM0NWFmMjk5YzQ2YWFhYmMzZjg3MTNmOTJmMTYzL2luZGV4Lm0zdTg%3D&uip=76.32.150.23&dnt=0&lmt=0&uid=&lang=en&device_model=&device_make=&device_os=&device_connection=&app_category=uncategorized&ifa_type=&site_url=&site_full_url=https%253A%252F%252Fwatch.freecast.com%252Fchannels%252Ffree%252Ffeatured%252Fcms-heartland%252F&max_duration=&width=683&height=355&cb=125635416&video_duration=&mute=0&skippability=&delivery=streaming&app_name=FreeCast&app_bundle=com.freecast.watch&app_version=1.0&app_store_url=https%25253A%25252F%25252Fwatch.freecast.com%25252F&device_id=7ff2efb1-e574-4399-be8f-4883c7cfc3b6&geo_lat=34.2586&geo_lon=-118.4217&channelid=Heartland&gdpr=0&us_privacy=1YNN&coppa=0&content_id=&content_series=Bluegrass+Ridge&content_lang=&content_season=&content_rating=&content_genre=featured&content_episode=&content_title=Bluegrass+Ridge&content_categories=IAB1-7&channel_name=Heartland&network_name=&poddur=&minduration=6&ad_pod_slots=&schain=&c4=101&device_category=desktop&video_id=&ad_position=&session_id=&ad_duration=1800&format=freecast
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Cowboy Channel
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/84912
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Cowboy Channel (Alt)
+https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Wild West TV
+https://jmp2.uk/rok-306550b8677f5fd3937c26808531d5f3.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Lone Star
+https://cineverse.g-mana.media/ffc88f2b-a62d-4f2f-b9b5-5068b2d86440/master.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Ovation
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/31180
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",INSP
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/74682
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Smithsonian Channel (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631865
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Smithsonian Channel (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2414
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Smithsonian Channel (Pluto)
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Outlaw The Western Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Free Western Network
+https://cdn-uw2-prodv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Aspire
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/21630
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC America
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3610
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OuterSphere by Lionsgate
+https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Pop TV (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631840
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Pop TV (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3863
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Vice
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/645915
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",YouToo America
+https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_YTA/YTA-SCTE35.m3u8?ads.ip=76.32.150.23
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LifeTime (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/650317
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LifeTime (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3659
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LMN (LifeTime Movie Network)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3660
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",LRW (LifeTime Real Women)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/470623
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Lifetime Movie Favorites
+https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Lifetime Movies Love & Drama
+https://amg00276-aenetwork-amg00276c28-lg-us-7272.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",WETV (Women Entertainment Television)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2378
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",WETV+
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/129978
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",WE Absolute Reality
+http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",HerSphere by Lionsgate
+https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Fashion TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Mediacorp Entertainment
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",HGTV (Home and Garden Television) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3836
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",HGTV (Home and Garden Television) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2489
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Magnolia Network
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647791
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",NBC LX Home
+http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",The Design Network
+https://2f494696.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfVGhlRGVzaWduTmV0d29ya19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Homeful Channel
+https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Taste Made Home
+https://cdn-uw2-prodv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TVS Today Home Entertainment
+https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",ONTV4U
+https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Cars.tv
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/75345
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FYI (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/647422
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FYI (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/30924
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Fuse
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/30920
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",UpTV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/77773
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",GSN (Game Show Network)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3650
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Game Show Central
+https://dfd29636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfR2FtZVNob3dDZW50cmFsX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC Game Shows
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OWN (Oprah Winfrey Network) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631868
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OWN (Oprah Winfrey Network) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3675
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Ebony TV by Lionsgate
+https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvvizio-vizious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC (American Movie Classics) (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/643834
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC (American Movie Classics) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3843
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",AMC Thriller
+https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM (Turner Classic Movies) (West)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/130050
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM (Turner Classic Movies) (East)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2402
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM+ (West)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",TCM+ (East)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",FMC (Family Movie Classics)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/665855
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Shorts TV
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/20210
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",NOST (The Nostalgia Network)
+https://api-ott.watchnost.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=freecast
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Channel (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/649412
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Channel (East)
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Family
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/660922
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Mystery (West)
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/649413
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Mystery (East)
+http://cors-proxy.cooks.fyi/http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/129888
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",80's Sitcom Flashback
+https://amg02208-dlt-amg02208c1-cw-us-2357.playouts.now.amagi.tv/playlist/amg02208-dltentertainment-80ssitcom-cwus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Non-Stop 90's
+https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Dove Channel
+https://cineverse.g-mana.media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",GAC Great American Faith & Living
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/737618
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",GAC Great American Family
+http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/84929
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",GAC Great American Pure Flix TV
+https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist/amg01884-gacmediafast-pureflixtv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",GAC Great American RomComs
+https://jmp2.uk/rok-77672e0655c5540095b1c492c91c37d3.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
+https://jmp2.uk/rok-f82edff34af287f3d8fe9d9098d45404.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Holiday Plus
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64afa6830d1521/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Universal Action
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814617/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814617
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Universal Crime
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814613/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814613
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Universal Monsters
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814625
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Universal Westerns
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814622/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814622
