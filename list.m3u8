@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+#EXTM3U 
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" group-title="Premium Channels",Cinemax (West)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3825
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" group-title="Premium Channels",Cinemax (East)
