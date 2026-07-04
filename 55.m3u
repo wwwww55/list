@@ -96,6 +96,29 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47822.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47823.ts
 
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Action (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47813.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Animation (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47814.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Comedy (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47815.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Drama (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47816.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Family (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47817.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Greats (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47818.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Hits (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47819.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Premiere (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47820.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Sci-Fi & Horror (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47821.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Section (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47822.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 7",Sky Cinema Thriller (UK)
+http://portal5458.com:8080/live/DBeverly/2290061890/47823.ts
+
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels 1y",Sky Cinema Action (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35254
