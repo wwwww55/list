@@ -1,3 +1,344 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" group-title="Premium Channels",Cinemax (West)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3825
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DRUG WARS
+http://nocable.cc:8080/live/92370096/92370096/325106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROBOT CHICKEN
+http://nocable.cc:8080/live/92370096/92370096/325107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE ALFRED HITCHCOCK HOUR
+http://nocable.cc:8080/live/92370096/92370096/325109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DOG THE BOUNTY HUNTER
+http://nocable.cc:8080/live/92370096/92370096/325110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DINOSAURS
+http://nocable.cc:8080/live/92370096/92370096/325111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",DRIVE-INS AND DIVES" tvg-logo="" group-title="24/7" - 24/7 DINERS, DRIVE-INS AND DIVES
+http://nocable.cc:8080/live/92370096/92370096/325112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DIFF'RENT STROKES
+http://nocable.cc:8080/live/92370096/92370096/325113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DICK VAN DYKE SHOW
+http://nocable.cc:8080/live/92370096/92370096/325114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JACKIE CHAN MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JET LI MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SIMPSONS TREEHOUSE OF HORROR
+http://nocable.cc:8080/live/92370096/92370096/325117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DEGRASSI JUNIOR HIGH
+http://nocable.cc:8080/live/92370096/92370096/325118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DEADLIEST CATCH
+http://nocable.cc:8080/live/92370096/92370096/325119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DALLAS
+http://nocable.cc:8080/live/92370096/92370096/325120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DA ALI G SHOW
+http://nocable.cc:8080/live/92370096/92370096/325121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CURB YOUR ENTHUSIASM
+http://nocable.cc:8080/live/92370096/92370096/325122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CRIMINAL MINDS
+http://nocable.cc:8080/live/92370096/92370096/325123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 COLUMBO
+http://nocable.cc:8080/live/92370096/92370096/325124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CHEERS
+http://nocable.cc:8080/live/92370096/92370096/325125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CHARMED
+http://nocable.cc:8080/live/92370096/92370096/325126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CHAPPELLE'S SHOW
+http://nocable.cc:8080/live/92370096/92370096/325127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BURN NOTICE
+http://nocable.cc:8080/live/92370096/92370096/325128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BUFFY THE VAMPIRE SLAYER
+http://nocable.cc:8080/live/92370096/92370096/325129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BROOKLYN NINE-NINE
+http://nocable.cc:8080/live/92370096/92370096/325130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BREAKING BAD
+http://nocable.cc:8080/live/92370096/92370096/325131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BRADY BUNCH
+http://nocable.cc:8080/live/92370096/92370096/325132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BOY MEETS WORLD
+http://nocable.cc:8080/live/92370096/92370096/325133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BOBS BURGERS
+http://nocable.cc:8080/live/92370096/92370096/325134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BILLY THE EXTERMINATOR
+http://nocable.cc:8080/live/92370096/92370096/325136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BEWITCHED
+http://nocable.cc:8080/live/92370096/92370096/325137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ACTION MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BEAVIS AND BUTTHEAD
+http://nocable.cc:8080/live/92370096/92370096/325139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BAYWATCH
+http://nocable.cc:8080/live/92370096/92370096/325140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 A NIGHTMARE ON ELM STREET
+http://nocable.cc:8080/live/92370096/92370096/325141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN 1966
+http://nocable.cc:8080/live/92370096/92370096/325142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BARNEY MILLER
+http://nocable.cc:8080/live/92370096/92370096/325143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BAR RESCUE
+http://nocable.cc:8080/live/92370096/92370096/325144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ARRESTED DEVELOPMENT
+http://nocable.cc:8080/live/92370096/92370096/325145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ARE YOU AFRAID OF THE DARK
+http://nocable.cc:8080/live/92370096/92370096/325146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ARCHER
+http://nocable.cc:8080/live/92370096/92370096/325147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ANCIENT ALIENS
+http://nocable.cc:8080/live/92370096/92370096/325148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AMERICAN DAD
+http://nocable.cc:8080/live/92370096/92370096/325149.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AMERICAN CHOPPER
+http://nocable.cc:8080/live/92370096/92370096/325150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ALICE
+http://nocable.cc:8080/live/92370096/92370096/325151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ALF
+http://nocable.cc:8080/live/92370096/92370096/325152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ACCORDING TO JIM
+http://nocable.cc:8080/live/92370096/92370096/325153.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 A DIFFERENT WORLD
+http://nocable.cc:8080/live/92370096/92370096/325154.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 60 DAYS IN
+http://nocable.cc:8080/live/92370096/92370096/325155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 3RD ROCK FROM THE SUN
+http://nocable.cc:8080/live/92370096/92370096/325156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 24 HOURS IN POLICE CUSTODY
+http://nocable.cc:8080/live/92370096/92370096/325157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 24 HOURS IN POLICE CUSTODY
+http://nocable.cc:8080/live/92370096/92370096/325158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 21 JUMP STREET
+http://nocable.cc:8080/live/92370096/92370096/325159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 X-MEN
+http://nocable.cc:8080/live/92370096/92370096/325160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 WILL FERRELL MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 WAR MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 VAMPIRE MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TWILIGHT
+http://nocable.cc:8080/live/92370096/92370096/325164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TRANSPORTER
+http://nocable.cc:8080/live/92370096/92370096/325165.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TRANSFORMERS
+http://nocable.cc:8080/live/92370096/92370096/325166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THRILLER MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE HANGOVER
+http://nocable.cc:8080/live/92370096/92370096/325168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MAGNUM PI
+http://nocable.cc:8080/live/92370096/92370096/325169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE AVENGERS
+http://nocable.cc:8080/live/92370096/92370096/325170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SUPERHERO MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 STEVEN SEAGAL
+http://nocable.cc:8080/live/92370096/92370096/325172.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPORTS MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 QUENTIN TARANTINO MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCIFI MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 RUSH HOUR
+http://nocable.cc:8080/live/92370096/92370096/325177.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROMANCE MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROCKY
+http://nocable.cc:8080/live/92370096/92370096/325179.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 RAMBO
+http://nocable.cc:8080/live/92370096/92370096/325180.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POLICE ACADEMY
+http://nocable.cc:8080/live/92370096/92370096/325181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PREDATOR/ALIEN MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325182.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PLANET OF THE APES
+http://nocable.cc:8080/live/92370096/92370096/325183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PIRATES OF THE CARIBBEAN
+http://nocable.cc:8080/live/92370096/92370096/325184.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TEXAS CHAINSAW MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MEN IN BLACK
+http://nocable.cc:8080/live/92370096/92370096/325186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MATRIX
+http://nocable.cc:8080/live/92370096/92370096/325187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LORD OF THE RINGS
+http://nocable.cc:8080/live/92370096/92370096/325188.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LETHAL WEAPON
+http://nocable.cc:8080/live/92370096/92370096/325189.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FRIDAY THE 13TH
+http://nocable.cc:8080/live/92370096/92370096/325190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JURASSIC PARK
+http://nocable.cc:8080/live/92370096/92370096/325191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JIM CARREY
+http://nocable.cc:8080/live/92370096/92370096/325192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JCVD MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JASON BOURNE
+http://nocable.cc:8080/live/92370096/92370096/325194.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JAMES BOND
+http://nocable.cc:8080/live/92370096/92370096/325195.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 INDIANA JONES
+http://nocable.cc:8080/live/92370096/92370096/325196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 HORROR MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 HARRY POTTER
+http://nocable.cc:8080/live/92370096/92370096/325198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 GREASE
+http://nocable.cc:8080/live/92370096/92370096/325199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FIFTY SHADES
+http://nocable.cc:8080/live/92370096/92370096/325200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FAST AND FURIOUS
+http://nocable.cc:8080/live/92370096/92370096/325201.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FAMILY MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325202.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DIE HARD
+http://nocable.cc:8080/live/92370096/92370096/325203.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CRIME MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325204.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BRUCE LEE MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CLINT EASTWOOD
+http://nocable.cc:8080/live/92370096/92370096/325206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BOXING MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BLADE MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325209.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BACK TO THE FUTURE
+http://nocable.cc:8080/live/92370096/92370096/325210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ARNOLD SCHWARZENEGGER
+http://nocable.cc:8080/live/92370096/92370096/325211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AL PACINO
+http://nocable.cc:8080/live/92370096/92370096/325212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ADAM SANDLER
+http://nocable.cc:8080/live/92370096/92370096/325213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 X-MEN CARTOONS
+http://nocable.cc:8080/live/92370096/92370096/325214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROB ZOMBIE MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TRANSFORMERS CARTOONS
+http://nocable.cc:8080/live/92370096/92370096/325216.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TOY STORY
+http://nocable.cc:8080/live/92370096/92370096/325217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TOM AND JERRY
+http://nocable.cc:8080/live/92370096/92370096/325218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TMNT
+http://nocable.cc:8080/live/92370096/92370096/325219.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THOMAS AND FRIENDS
+http://nocable.cc:8080/live/92370096/92370096/325220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 EVERYBODY HATES CHRIS
+http://nocable.cc:8080/live/92370096/92370096/325221.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE GARFIELD SHOW
+http://nocable.cc:8080/live/92370096/92370096/325223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE FLINTSTONES
+http://nocable.cc:8080/live/92370096/92370096/325224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE BATMAN
+http://nocable.cc:8080/live/92370096/92370096/325225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SUPER WINGS
+http://nocable.cc:8080/live/92370096/92370096/325227.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 KUNG FU PANDA
+http://nocable.cc:8080/live/92370096/92370096/325228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 EXPEDITION UNKNOWN
+http://nocable.cc:8080/live/92370096/92370096/325229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 STAR WARS THE CLONE WARS
+http://nocable.cc:8080/live/92370096/92370096/325230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPONGEBOB SQUARE PANTS
+http://nocable.cc:8080/live/92370096/92370096/325232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCI-FI MOVIES
+http://nocable.cc:8080/live/92370096/92370096/325233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPIDERMAN
+http://nocable.cc:8080/live/92370096/92370096/325234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCOOBY-DOO CLASSIC
+http://nocable.cc:8080/live/92370096/92370096/325235.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCOOBY-DOO
+http://nocable.cc:8080/live/92370096/92370096/325236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPONGEBOB SQUAREPANTS
+http://nocable.cc:8080/live/92370096/92370096/325237.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 RUGRATS
+http://nocable.cc:8080/live/92370096/92370096/325238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PUPPY DOG PALS
+http://nocable.cc:8080/live/92370096/92370096/325239.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POWER RANGERS
+http://nocable.cc:8080/live/92370096/92370096/325240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POPEYE
+http://nocable.cc:8080/live/92370096/92370096/325241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POKEMON
+http://nocable.cc:8080/live/92370096/92370096/325242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PJ MASKS
+http://nocable.cc:8080/live/92370096/92370096/325243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE SMURFS
+http://nocable.cc:8080/live/92370096/92370096/325245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PEPPA PIG
+http://nocable.cc:8080/live/92370096/92370096/325246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PAW PATROL
+http://nocable.cc:8080/live/92370096/92370096/325247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MY LITTLE PONY
+http://nocable.cc:8080/live/92370096/92370096/325248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MUPPET BABIES SHOW
+http://nocable.cc:8080/live/92370096/92370096/325249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MR BEAN ANIMATED
+http://nocable.cc:8080/live/92370096/92370096/325250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MICKEY MOUSE CLUBHOUSE
+http://nocable.cc:8080/live/92370096/92370096/325251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 HENRY DANGER
+http://nocable.cc:8080/live/92370096/92370096/325252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MARVEL AVENGERS ASSEMBLE
+http://nocable.cc:8080/live/92370096/92370096/325253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MCMILLAN AND WIFE
+http://nocable.cc:8080/live/92370096/92370096/325254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LOONEY TUNES
+http://nocable.cc:8080/live/92370096/92370096/325255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LITTLE EINSTEINS
+http://nocable.cc:8080/live/92370096/92370096/325256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LEGO STAR WARS
+http://nocable.cc:8080/live/92370096/92370096/325257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JOHNY TEST
+http://nocable.cc:8080/live/92370096/92370096/325258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MORTAL KOMBAT
+http://nocable.cc:8080/live/92370096/92370096/325259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE PJS
+http://nocable.cc:8080/live/92370096/92370096/325260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FRAGGLE ROCK
+http://nocable.cc:8080/live/92370096/92370096/325261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ELENA OF AVALOR
+http://nocable.cc:8080/live/92370096/92370096/325262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DUCK TALES
+http://nocable.cc:8080/live/92370096/92370096/325263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DREAMWORKS ANIMATION
+http://nocable.cc:8080/live/92370096/92370096/325264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DRAGON BALL Z
+http://nocable.cc:8080/live/92370096/92370096/325265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CHICAGO MED
+http://nocable.cc:8080/live/92370096/92370096/325266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DORA THE EXPLORER
+http://nocable.cc:8080/live/92370096/92370096/325267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DISNEY SONGS
+http://nocable.cc:8080/live/92370096/92370096/325268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DISNEY Songs
+http://nocable.cc:8080/live/92370096/92370096/325269.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DISNEY Movies
+http://nocable.cc:8080/live/92370096/92370096/325271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PARTS UNKNOWN
+http://nocable.cc:8080/live/92370096/92370096/325272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AMERICAN PICKERS
+http://nocable.cc:8080/live/92370096/92370096/325273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CAPTAIN PLANET AND THE PLANETEERS
+http://nocable.cc:8080/live/92370096/92370096/325274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BLAZE AND THE MONSTER MACHINES
+http://nocable.cc:8080/live/92370096/92370096/325277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BEN 10
+http://nocable.cc:8080/live/92370096/92370096/325278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN THE ANIMATED SERIES
+http://nocable.cc:8080/live/92370096/92370096/325279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN BRAVE AND THE BOLD
+http://nocable.cc:8080/live/92370096/92370096/325280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BARNEY
+http://nocable.cc:8080/live/92370096/92370096/325281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 A HAUNTING
+http://nocable.cc:8080/live/92370096/92370096/325282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AVATAR
+http://nocable.cc:8080/live/92370096/92370096/325283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ADVENTURE TIME
+http://nocable.cc:8080/live/92370096/92370096/325284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 GAME OF THRONES
+http://nocable.cc:8080/live/92370096/92370096/326080.m3u8
